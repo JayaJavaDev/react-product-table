@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import SearchBar from './Searchbar';
+import SearchBar from './SearchBar.jsx';
 import ProductTable from './ProductTable';
 
 function FilterableProductTable({ products }) {
